@@ -1,7 +1,11 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Database (DynamoDB, S3, Postgres) and SQL 
+  percentage: 90
+  color: success
+
+- name: AWS Cloud Practitioner Skills
+  percentage: 80
   color: info
 
-- name: Adobe Illustrator
+- name: Machine Learning Libraries (NLTK, OpenCV, Keras)
   percentage: 90
   color: success
