@@ -1,9 +1,19 @@
 - title: Security Operations Engineer, Zoom
   from: 2021
   to: Present
-  description: Part of the Software Development division of Security Monitoring and Logging team. Work on developing tools for building the security pipeline
+  description: Part of the Software Development division of Security Monitoring and Logging team. I work on leveraging open source tools to build a efficient security pipeline.  
+               I worked on several projects where I used Python, Flask, Ansible, Apache Airflow, Dask and Deep Learning frameworks. I gained familiarity with AWS by provisioning EC2 instances and setting up environments on the same. I also worked with AWS Fargate to create a on-demand provisioning of instances for a search application we developed. 
+
+- title: Software Development Intern at IBM 
+  from:  July 2020 
+  to: Dec 2020
+  description: I joined as an intern at the IBM-Sterling Supply Chain Business Network (SCBN) team. I worked on the modernization and relaunch of the Customer Center portal of IBM-Sterling Supply Chain Business Network (SCBN) by leveraging the latest of cloud technologies (Couchbase, Kubernetes etc.) to achieve increased resiliency, efficiency and ease-of-use with simplified onboarding.
+  
+ 
 
 - title: Bachelors student at IIITDM Kancheepuram
-  from: 2018
-  to: present
-  description: Majored in Computer Science and graduated with a Honors.
+  from: 2017
+  to: 2021
+  description: Majored in Computer Engineering and graduated with a Honors. I was a part of several clubs and societies. During my sophomore year, I was the Joint core of the Computer Science club where I helped
+                conduct workshops, talks and coding competitions. I was the Academic Affairs Secretary during my Junior and Senior years where I expressed students' concerns and suggestions to the academic staff 
+                and implemented measures for the overall academic betterment. I also volunteered with UBA to educate nearby village students on the importance of environment and sustainable everyday practices. 
