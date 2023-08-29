@@ -1,8 +1,8 @@
 ---
-title: How to undo your git failure?
-tags: [External Post, Git]
+title: How Word2Vec works
+tags: [External Post, Quora]
 style: fill
 color: warning
-description: Using `git reflog` and `git reset` to save your code.
-external_url: https://blog.usejournal.com/how-to-undo-your-git-failure-b76e31ecac74
+description: The Word2Vec model generates vectors based on the context in which each word appears.
+external_url: https://qr.ae/pyByzy
 ---
